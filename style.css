@@ -1,0 +1,113 @@
+body{
+    background-color:#f8edeb;
+}
+
+#title{
+    color:#ffcad4;
+    font-style:normal;
+    text-shadow: 2px 3px 2px #f4005a;
+    font-family:"Titan One", "Baloo", "Swanky and Moo Moo", Arial;
+    letter-spacing: 0.2em;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 3em;
+}
+
+.turn_ons{
+    background-color: #fae0e4;
+    border-style: dashed;
+    border-color: #ff5d8f;
+    border-radius: 50px;
+    padding: 30px;
+    margin:70px;
+    text-align: center;
+}
+
+#turn_ons_header{
+    color:#ff5d8f;
+    font-style:normal;
+    text-shadow: 2px 3px 2px #800f2f;
+    font-family:"Titan One", "Baloo", "Swanky and Moo Moo", Arial;
+    letter-spacing: 0.2em;
+}
+
+#turn_ons_desc{
+    font-family: "Roboto", Arial;
+    color:#ff477e;
+}
+
+ul.turn_ons_list {
+    list-style: none;
+    font-size: 25px;
+    font-family: "Gamja Flower", "Swanky and Moo Moo", "Baloo", Arial;
+}
+
+#substance {
+    color:#ff85a1;  
+}
+
+#adventurous{
+    color:#ff7096;
+}
+
+#cheerful{
+    color:#ff5c8a;
+}
+
+#inspiring{
+    color:#ff477e;
+}
+
+#handsome{
+    color:#ff0a54;
+}
+
+
+.turn_offs{
+    background-color: #caf0f8;
+    border-style: dashed;
+    border-color: #00a8e8;
+    border-radius: 50px;
+    padding: 30px;
+    margin:70px;
+    text-align: center;
+}
+
+#turn_offs_header{
+    color:#00a8e8;
+    font-style:normal;
+    text-shadow: 2px 3px 2px #014f86;
+    font-family:"Titan One", "Baloo", "Swanky and Moo Moo", Arial;
+    letter-spacing: 0.2em;
+}
+
+#turn_offs_desc{
+    font-family: "Roboto", Arial;
+    color:#0077b6;
+}
+
+ul.turn_offs_list {
+    list-style: none;
+    font-size: 25px;
+    font-family: "Gamja Flower", "Swanky and Moo Moo", "Baloo", Arial;
+}
+
+#cheap {
+    color:#48cae4;
+}
+
+#mood_killer{
+    color:#00b4d8;
+}
+
+#phone{
+    color:#0096c7;
+}
+
+#texter{
+    color:#0077b6;
+}
+
+#boastful{
+    color:#023e8a;
+}
